@@ -1,0 +1,15 @@
+{
+     "homePage": "مکزی صفحہ",
+     "personalInformation": "انفرادی معلومات",
+     "name": "اسم",
+     "nameHint": "کنایات",
+     "email": "برقی پیغام",
+     "emailHint": "کنایائے پیغام",
+     "dateOfBirth": "تاريخ پیدائش",
+     "requiredField": "مطلوبات",
+     "submitInfo": "إرسال معلومات",
+     "aboutUs": "ذاتی معلومات",
+     "settings": "ترتیبات",
+     "changeLanguage": "تغيير لسان",
+     "about": "تشریحات"
+   }

@@ -1,0 +1,17 @@
+{ 
+  "appTitle": "Flutter",
+
+  "langTitle":"Language Title:",  
+  "language": "English",
+ 
+  "enterText":"Enter your text:",  
+  "email": "Enter your email",
+  "passCode": "Enter passCode:",
+
+  "labelText": "User Name...",
+  "hintText":"Enter text here",
+
+  "submit":"Submit",
+
+  "about": "Lorem Ipsum is simply dummy text of the printing. No one else will ever receive it. Lorem Ipsum is simplynLorem Ipsum is simply dummy text of the printing. No one else will ever receive it. Lorem Ipsum is simply"
+}
